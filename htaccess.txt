@@ -1,0 +1,5 @@
+ErrorDocument 404 http://under-havet.onda.dk/404.html
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.yourdomain.com [NC]
+RewriteRule ^(.*)$ http://yourdomain.com/$1 [L,R=301]
