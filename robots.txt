@@ -1,2 +1,3 @@
+Sitemap: http://www.under-havet.onda.dk//sitemap.xml
 User-agent: *
 Disallow: 

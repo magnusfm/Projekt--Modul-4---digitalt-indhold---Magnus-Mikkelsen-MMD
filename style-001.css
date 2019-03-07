@@ -147,9 +147,10 @@ nav ul a:hover{
     background: auto;
     border-radius:3px;
     background-size: cover;
+    img
 }
 .box1 img{ 
-    padding: 0;
+    padding:0;
     background-size:auto;
     height: 185px;
     overflow: hidden;
